@@ -44,14 +44,6 @@ a defender.
 
 *(Links update as projects are completed)*
 
----
-
-## 📊 GitHub Stats
-
-![Suchit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=karnamsuchit&show_icons=true&theme=dark&hide_border=true)
-
----
-
 ## 🏅 Certifications & Learning
 - 🟡 TryHackMe SOC Level 1 — *In Progress*
 - 🟡 SOC Analyst Level 1 & 2 Masterclass — Udemy — *In Progress*
