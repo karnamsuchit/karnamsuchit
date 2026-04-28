@@ -54,7 +54,7 @@ a defender.
 
 ## 🏅 Certifications & Learning
 - 🟡 TryHackMe SOC Level 1 — *In Progress*
-- 🟡 Google Cybersecurity Certificate — *In Progress*
+- 🟡 SOC Analyst Level 1 & 2 Masterclass — Udemy — *In Progress*
 
 ---
 
