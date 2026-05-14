@@ -38,7 +38,7 @@ a defender.
 
 | Project | Description | Tools |
 |---------|-------------|-------|
-| 🔍 [SOC Log Analysis & Threat Detection Platform](#) | Python tool to parse logs & extract IOCs | Python |
+| 🔍 [SOC Log Analysis & Threat Detection Platform](https://github.com/karnamsuchit/soc-web-platform) | Python tool to parse logs & extract IOCs | Python |
 | 📊 [Splunk SIEM Lab](#) | Home lab with detection rules | Splunk, Windows Logs |
 | 🌐 [Wireshark Analysis](#) | Malware pcap investigation | Wireshark |
 
