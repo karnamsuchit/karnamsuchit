@@ -1,121 +1,136 @@
- Hi, I'm Suchit Karnam
+# Hi, I'm Suchit Karnam 👋
 
-🔐 About Me
+### Aspiring SOC Analyst | Threat Detection | SIEM | Python | Log Analysis
 
-🎓 Final-year Computer Science student focused on cybersecurity and SOC operations
+---
 
-🛡️ Building hands-on projects involving threat detection, SIEM, and log analysis
+## 🔐 About Me
 
-🌐 Interested in network traffic analysis, IOC detection, and security monitoring
+🎓 Final-year Computer Science student focused on cybersecurity and SOC operations  
+🛡️ Building hands-on projects involving threat detection, SIEM, and log analysis  
+🌐 Interested in network traffic analysis, IOC detection, and security monitoring  
+🧠 Exploring practical blue-team workflows and incident investigation concepts  
 
-🧠 Exploring practical blue-team workflows and incident investigation concepts
+---
 
-⚡ Cybersecurity Focus Areas
+## ⚡ Cybersecurity Focus Areas
 
-SOC Operations
-Threat Detection
-Log Analysis
-PCAP Analysis
-Security Monitoring
-Network Traffic Investigation
-MITRE ATT&CK
-SIEM Fundamentals
+- SOC Operations  
+- Threat Detection  
+- Log Analysis  
+- PCAP Analysis  
+- Security Monitoring  
+- Network Traffic Investigation  
+- MITRE ATT&CK  
+- SIEM Fundamentals  
 
-🛠️ Tools & Technologies
+---
 
-🔹 Security Tools
+## 🛠️ Tools & Technologies
 
-Wireshark
+### 🔹 Security Tools
+- Wireshark  
+- tshark  
+- Wazuh  
+- Splunk  
+- Kali Linux  
 
-tshark
+### 🔹 Programming & Development
+- Python  
+- FastAPI  
+- React  
+- TailwindCSS  
 
-Wazuh
+### 🔹 Systems & Networking
+- Linux CLI  
+- Windows  
+- TCP/IP  
+- DNS  
+- HTTP/HTTPS  
 
-Splunk
+---
 
-Kali Linux
+# 🚀 Featured Projects
 
-🔹 Programming & Development
-
-🚀 Featured Projects
-
-🔹 SOC Threat Detection & Security Monitoring Platform | [[GitHub Repository](https://github.com/karnamsuchit/soc-web-platform)]
+## 🔹 SOC Threat Detection & Security Monitoring Platform  
+🔗 [GitHub Repository](https://github.com/karnamsuchit/soc-web-platform)
 
 Python-based SOC monitoring platform for automated log ingestion, threat detection, and security event analysis.
 
-Key Features
+### Key Features
+- Multi-format log analysis  
+- Threat detection workflows  
+- IOC identification  
+- MITRE ATT&CK mapping  
+- Security analytics dashboard  
 
-Multi-format log analysis
+### Tech Stack
 
-Threat detection workflows
-
-IOC identification
-
-MITRE ATT&CK mapping
-
-Security analytics dashboard
-
-Tech Stack
-
+```yaml
 Python
 FastAPI
 React
 TailwindCSS
 MITRE ATT&CK
 Kali Linux
+```
 
-🔹 Network Traffic Threat Investigation using Wireshark (Working) | [GitHub Repository]()
+---
+
+## 🔹 Network Traffic Threat Investigation using Wireshark (Working)  
+🔗 [GitHub Repository]()
 
 Analyzing PCAP files and investigating suspicious network behavior using Wireshark and tshark.
 
-Focus Areas
+### Focus Areas
+- DNS anomaly detection  
+- HTTP traffic investigation  
+- IOC extraction  
+- Traffic analysis reporting  
 
-DNS anomaly detection
+### Tools
 
-HTTP traffic investigation
-
-IOC extraction
-
-Traffic analysis reporting
-
-Tools
-
+```yaml
 Wireshark
- tshark
+tshark
 Kali Linux
+```
 
-🔹 Wazuh SIEM Home Lab with Sysmon Threat Monitoring (Planned) | 
+---
+
+## 🔹 Wazuh SIEM Home Lab with Sysmon Threat Monitoring (Planned)
 
 Planned SIEM home lab project for centralized security monitoring and Windows event analysis.
 
-Planned Stack
+### Planned Stack
 
+```yaml
 Wazuh
 Sysmon
 Windows
 Kali Linux
 VirtualBox
+```
 
-📚 Currently Learning
+---
 
-SIEM Workflows
+## 📚 Currently Learning
 
-Threat Detection Engineering
+- SIEM Workflows  
+- Threat Detection Engineering  
+- Windows Event Monitoring  
+- Security Investigation Techniques  
+- SOC Operations  
 
-Windows Event Monitoring
+---
 
-Security Investigation Techniques
+## 📫 Connect With Me
 
-SOC Operations
+💼 LinkedIn: [Suchit Karnam](https://www.linkedin.com/in/suchit-karnam)  
+📧 Email: suchitkarnam@gmail.com  
 
+---
 
-📫 Connect With Me
-
-💼 LinkedIn: [LinkedIn](www.linkedin.com/in/suchit-karnam)
-
-📧 Email: suchitkarnam@gmail.com
-
-⚡ Goal
+## ⚡ Goal
 
 Building practical blue-team and SOC skills through hands-on cybersecurity projects, SIEM workflows, and threat detection engineering.
-
