@@ -111,7 +111,7 @@ SOC Operations
 
 📫 Connect With Me
 
-💼 LinkedIn: [www.linkedin.com/in/suchit-karnam]
+💼 LinkedIn: [LinkedIn](www.linkedin.com/in/suchit-karnam)
 
 📧 Email: suchitkarnam@gmail.com
 
