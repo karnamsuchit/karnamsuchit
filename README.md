@@ -64,7 +64,7 @@ TailwindCSS
 MITRE ATT&CK
 Kali Linux
 
-🔹 Network Traffic Threat Investigation using Wireshark (Working) | [GitHub Repository]
+🔹 Network Traffic Threat Investigation using Wireshark (Working) | [GitHub Repository]()
 
 Analyzing PCAP files and investigating suspicious network behavior using Wireshark and tshark.
 
