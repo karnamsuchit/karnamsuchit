@@ -1,53 +1,107 @@
 # Hi, I'm Suchit Karnam 👋
 
-🎯 **CS Student → SOC Analyst in Training**  
-📍 Bengaluru, India | 🎓 AMC Engineering College (May 2026)  
-📄 IEEE Co-Author | 🛡️ Blue Team Enthusiast
+### Aspiring SOC Analyst | Threat Detection | SIEM | Python | Log Analysis
+
+Final-year Computer Science student focused on building hands-on cybersecurity projects involving SOC operations, security monitoring, threat detection, and network traffic analysis.
 
 ---
 
-## 🔐 About Me
+## 🔐 Cybersecurity Focus
 
-Final-year Computer Science student actively transitioning 
-into cybersecurity. I think like an attacker, build like 
-a defender.
-
-- 🔭 Currently building: **Splunk SIEM Home Lab**
-- 🌱 Learning: **Wireshark · MITRE ATT&CK · Log Analysis**
-- 🧪 Practicing on: **TryHackMe SOC Level 1**
-- 💬 Ask me about: **Python scripting, system architecture, 
-  threat detection**
-- 📫 Reach me: [LinkedIn](https://linkedin.com/in/suchit-karnam)
+- SOC Operations
+- Threat Detection
+- Log Analysis
+- SIEM Fundamentals
+- PCAP Analysis
+- Security Monitoring
+- Network Traffic Investigation
+- MITRE ATT&CK
 
 ---
 
-## 🛠️ Skills & Tools
+## 🛠️ Tools & Technologies
 
-**Security (Building)**
-`Splunk` `Wireshark` `MITRE ATT&CK` `Log Analysis` `TryHackMe`
+### Security Tools
+- Wireshark
+- tshark
+- Wazuh
+- Splunk
+- Kali Linux
 
-**Programming**
-`Python` `SQL` `Java` `Bash`
+### Programming & Development
+- Python
+- FastAPI
+- React
+- TailwindCSS
 
-**Dev Tools**
-`Git` `Linux` `REST APIs`
-
----
-
-## 📌 Featured Projects
-
-| Project | Description | Tools |
-|---------|-------------|-------|
-| 🔍 [SOC Log Analysis & Threat Detection Platform](https://github.com/karnamsuchit/soc-web-platform) | Python tool to parse logs & extract IOCs | Python |
-| 📊 [Splunk SIEM Lab](#) | Home lab with detection rules | Splunk, Windows Logs |
-| 🌐 [Wireshark Analysis](#) | Malware pcap investigation | Wireshark |
-
-*(Links update as projects are completed)*
-
-## 🏅 Certifications & Learning
-- 🟡 TryHackMe SOC Level 1 — *In Progress*
-- 🟡 SOC Analyst Level 1 & 2 Masterclass — Udemy — *In Progress*
+### Systems & Networking
+- Linux CLI
+- Windows
+- TCP/IP
+- DNS
+- HTTP/HTTPS
 
 ---
 
-⚡ *"Defend first. Detect always."*
+## 🚀 Featured Projects
+
+### 🔹 SOC Threat Detection & Security Monitoring Platform | [GitHub Repository]
+
+Python-based SOC monitoring platform for automated log ingestion, threat detection, and security event analysis.
+
+**Key Features**
+- Multi-format log analysis
+- Threat detection workflows
+- IOC identification
+- MITRE ATT&CK mapping
+- Security analytics dashboard
+
+**Tech Stack**
+Python • FastAPI • React • TailwindCSS • MITRE ATT&CK • Kali Linux
+
+---
+
+### 🔹 Network Traffic Threat Investigation using Wireshark (Working) | [GitHub Repository]
+
+Ongoing project focused on analyzing PCAP files and investigating suspicious network activity.
+
+**Focus Areas**
+- DNS anomaly detection
+- HTTP traffic investigation
+- IOC extraction
+- Traffic analysis reporting
+
+**Tools**
+Wireshark • tshark • Kali Linux
+
+---
+
+### 🔹 Wazuh SIEM Home Lab with Sysmon Threat Monitoring (Planned) | [GitHub Repository]
+
+Planned SIEM home lab project for centralized security monitoring and Windows event analysis.
+
+**Planned Stack**
+Wazuh • Sysmon • Windows • Kali Linux • VirtualBox
+
+---
+
+## 📚 Currently Learning
+
+- SIEM Workflows
+- Threat Detection Engineering
+- Windows Event Monitoring
+- Security Investigation Techniques
+- SOC Operations
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: [Add Your LinkedIn Link]
+- Email: suchitkarnam@gmail.com
+
+---
+
+## ⚡ Goal
+
+Building practical blue-team and SOC skills through hands-on cybersecurity projects and security monitoring workflows.
